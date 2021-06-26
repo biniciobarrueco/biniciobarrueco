@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @biniciobarrueco
+- 👀 I’m interested in projects and data processing 
+- 🌱 I’m currently learning Pyhton and its libraries for data science
+- 💞️ I’m looking to collaborate on data datascience and ML while I can
