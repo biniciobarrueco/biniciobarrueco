@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @biniciobarrueco
-- 👀 I’m interested in projects and data processing 
-- 🌱 I’m currently learning Pyhton and its libraries for data science
-- 💞️ I’m looking to collaborate on data datascience and ML while I can
+- 👋 Hi, I’m @biniciobarrueco, Industrial Civil Engineer
+- 👀 I’m interested in Data Science, Analytics and a bit of UI desktop apps development.  
+- 🌱 I’ve learning Pyhton for almost three years and its libraries for data science, now reinforcing SQL and learning to use ORM's
+- 💞️ I’m looking for my first job in this IT field or collaborate to meet people who have the same interests, and maybe to be part of a team in these fields of IT
